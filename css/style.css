@@ -58,7 +58,6 @@ header ul {
 .hero--info {
   width: 560px; 
   height: 370px;
-  border: 1px solid green;
 }
 .hero--info a {
   position: relative;
