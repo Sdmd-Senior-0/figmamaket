@@ -50,7 +50,8 @@ header ul {
   color: #fff;
 }
 .hero {
-  padding: 50px 0px;
+  padding: 50px 40px;
+  border: 1px solid green;
   height: 550px;
   display: flex;
   justify-content: space-between;
@@ -58,15 +59,16 @@ header ul {
 .hero--info {
   width: 560px; 
   height: 370px;
+  border: 1px solid green;
 }
 .hero--info a {
   position: relative;
-  top: 50%;
-  left: 0px;
+  top: 175px;
   display: inline-block;
   line-height: 50px;
-  width: 60px;
+  width: 100px;
   height: 50px;
+  text-align: center;
   border-radius: 5px;
   margin-top: 10px;
   background-color: var(--forbtncolor);
