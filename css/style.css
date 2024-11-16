@@ -51,7 +51,6 @@ header ul {
 }
 .hero {
   padding: 50px 40px;
-  border: 1px solid green;
   height: 550px;
   display: flex;
   justify-content: space-between;
