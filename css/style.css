@@ -38,7 +38,10 @@ header ul {
   font-size: 16px;
   font-weight: 540;
 }
-.auth{width: 135px;font-style: 20px;}
+.auth{
+  width: 135px;
+  font-style: 20px;
+}
 #sign {
   background-color: var(--forbtncolor);
   text-align: center;
