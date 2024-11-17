@@ -39,9 +39,6 @@ header ul {
   font-weight: 540;
 }
 .auth{width: 135px;font-style: 20px;}
-.auth a {
-  text-decoration: none;
-}
 #sign {
   background-color: var(--forbtncolor);
   text-align: center;
@@ -100,4 +97,47 @@ header ul {
 .clients--logo img{
   height: 60px;
   width: 60px;
+}
+
+.community {
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 42px;
+}
+.community > *, .community > * {
+  overflow: hidden;
+}
+
+.community--info {
+  width: 100%;
+  height: auto;
+}
+.community--info h1 {
+  margin: 0 auto;
+  display: block;
+  width: 542px;
+  height: 72px;
+}
+.community--clubs{
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.clubs {
+  width: 300px;
+  box-shadow: 0px 2px 4px 0px rgba(171, 190, 209, 0.2);
+  height: 250px;
+  text-align: center;
+}
+
+.member {
+  width: 255px;
+  height: 135px;
+  margin: 0 auto;
+}
+
+.clubs p {
+  width: 240px;
+  margin: 5px auto;
 }
